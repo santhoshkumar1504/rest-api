@@ -1,4 +1,4 @@
-# 📌 REST API for Authentication, Email Verification, File Upload & CRUD
+#  📌 REST API for Authentication, Email Verification, File Upload & CRUD
 
 A fully functional REST API built using **Node.js**, **Express**, **MongoDB**, and various middleware libraries.
 This API supports:
@@ -13,7 +13,7 @@ This API supports:
 
 ---
 
-## 🚀 Features
+##  🚀 Features
 
 ### 🔐 **Authentication**
 
